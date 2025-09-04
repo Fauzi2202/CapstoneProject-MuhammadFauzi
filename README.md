@@ -5,7 +5,7 @@ Capstone Project untuk program Hacktiv8 x IBM Student Developer Initiative. Proy
 
 ## 📌 Project Overview
 Proyek ini bertujuan untuk menganalisis sentimen komentar pengguna pada video YouTube dengan bantuan **AI (IBM Granite via Replicate API)**.  
-Dengan analisis ini, diperoleh wawasan mengenai bagaimana audiens merespons konten, pola komentar, serta rekomendasi perbaikan konten.
+Dengan analisis ini, diperoleh wawasan mengenai bagaimana audiens merespons konten, pola komentar, serta rekomendasi untuk topik yang ada pada video.
 
 ## 🎯 Objectives
 - Mengklasifikasikan komentar ke dalam kategori **Positif, Negatif, dan Netral**.  
