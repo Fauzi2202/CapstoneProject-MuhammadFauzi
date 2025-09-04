@@ -109,7 +109,7 @@ Berdasarkan hasil analisis sentimen komentar, diperoleh beberapa temuan utama:
 ## 📎 Submission Links
 - [📓 Google Colab Notebook]([./CapstoneProject_MuhammadFauzi_Final.ipynb](https://colab.research.google.com/drive/1VSD5ppiQMqcxddM0Tq2biMZL_LqSdOU1?usp=sharing))  
 - [📂 Dataset Mentah](https://docs.google.com/spreadsheets/d/1InwLGW_5STHxXLpmn4VV8_vFNLhTaFkDr7JMbim_ZVQ/edit?usp=sharing)  
-- [📑 Presentation Slide]()
+- [📑 Presentation Slide](https://drive.google.com/file/d/1Miojwa7pei8YB7wA1FU_V4fgjbFplwQR/view?usp=sharing)
 
 ---
 
